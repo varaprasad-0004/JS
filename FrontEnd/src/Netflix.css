@@ -1,0 +1,21 @@
+/* body {
+    background-image: url(./move.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+/* body::before {
+    content: "";
+    background-color: rgba(0, 0, 0, 0.5); 
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+} */
+
+/* Change the color of the placeholder text */
+input::placeholder {
+    color: #fdfdfd; /* Change to your desired color */
+}
